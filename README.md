@@ -1,5 +1,7 @@
 # Interference
 This code helps to visualize concept of interference. When interference is maximum and when it is minimum.
+
+![Preview not available](photos/result.gif)
 # Working principle
 1. There is two sine waves of Same frequency. One is stady and other is shifting its phase(Moving).
 2. After every small phase shift their interference is taken and Displayed.
